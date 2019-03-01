@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_database/models/User.dart';
-/*import 'package:sqflite/sqflite.dart';
-import 'package:path_provider/path_provider.dart';*/
 import 'package:flutter_database/utils/database_helper.dart';
 
 List _users;
